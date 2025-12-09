@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { ArrowLeft, FileText, Scale, AlertCircle, CheckCircle, Users, Package } from 'lucide-react';
+import { ArrowLeft, FileText, Scale, AlertCircle, CheckCircle, Users, Package, Shield } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
